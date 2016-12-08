@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Checkbook</string>
+    <string name="incorrect_login">Username or Password is incorrect.</string>
+    <string name="title_activity_add_checking_trans">AddCheckingTrans</string>
+
+</resources>

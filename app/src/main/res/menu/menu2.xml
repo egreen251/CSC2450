@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mucsc2450.emma.checkbook.HomePage">
+    <item
+    android:id="@+id/add_savingsTrans"
+    android:title="Add Transaction"
+    app:showAsAction="never" />
+    <item
+        android:id="@+id/home"
+        android:title="home"
+        app:showAsAction="never" />
+
+</menu>

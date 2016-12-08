@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_80323d9beb28509d6e3635c0ea8ad53d87cbfca9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_1feac533b85aca8aa5b0bf33f46d7fbd3eeaff46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="196c7b5d539abef56a95db9e89d33b4857573c39">
+        <dex dex="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fc90dfee76dfefd798ae8918ff75de0106a1131c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_469604f9009a435712a8d844cefe140f5bfac971/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_e6bdb85ab1318ec54a75f0c50ce6e76100ea5552/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_82b51b38e8d80a7e22c9cf9fb8c3fad1eba8e64e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_65c862d711b2642fb260bb59e7c1f7210b88ca71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_bd52da7c99374a8e1056de216427c06be6513cbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_2037944da7f7bcfc436c5f7659837ab477809fde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emmagreen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_8d6e54bdd64010aff222d42fec8d360136258ade/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="83f1e87c5ebc4800a264e4b3ef5058772f646ba1">
+        <dex dex="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cb0467e2e44c648f98955039512032bcc863f050/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_56ca3c37c60f0aa6ae6d38831bd6a5594fdc37db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_1c575366819478d76ea936d05cc4a70515f99a5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8fb9e5aec11aee9eba2a6014d4ea0bd3aae3ec1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_e9ad23b9663485872a3228a3182cac6adf4792c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_e64852c565d015b75df0ed8785727bd3c84c63af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_41edf66c8c1bfff337c564a982a4cc69f1214361/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_825c9836cb334a1b2b942d02f12d67373b1d86b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_3cc0878dcce2f370a564598c0ebcd14e36dab6cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/emmagreen/Desktop/Checkbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_63c3c5de9d0ccfe6af2a2c3aed9423605b1735bc/classes.dex" />
+    </item>
+
+</items>
